@@ -1,0 +1,40 @@
+﻿.container {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  margin-left: 40px;
+  color: rgb(184, 154, 227);
+}
+body {
+    background-image: url('https://media.istockphoto.com/id/1269018927/ro/vector/drive-în-ecran-cinema-ilustrație-vectorială-semi-plat.jpg?s=1024x1024&w=is&k=20&c=TEQn00H3fJXQEMzWSt8ympspQaSCl9XfzK1sA6v9pBg=');
+    background-size: cover;
+    background-position: center center;
+}
+h1 {
+  text-align: center;
+  margin-left: 40px;
+  color: lightpink;
+  font-family: Geneva, Verdana, sans-serif;
+  font-size: 35px;
+}
+div {
+  color: rgb(226, 155, 231);
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+}
+
+#list {
+  border: 2px solid orchid;
+  width: 315px;
+ 
+}
+.selectat {
+  background-color: rgb(130, 93, 174, 0.46);
+}
+canvas {
+  border: 1px solid white;
+}
